@@ -1,0 +1,4 @@
+Hello, World!
+This is a sample text file.
+Python is great for working with files.
+Let's learn file handling.
