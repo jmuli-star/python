@@ -6,10 +6,11 @@ strings
 boolean
 numbers
 # For loops
- for i in maths:
+ for i in maths: \n
  print(i)
 # Sets
 
 # tupules
 
-# DICT
+# Dictionaries
+ contain key pairs
